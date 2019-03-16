@@ -63,8 +63,6 @@ end
 
 
 def using_delete(instructors, name)
-  # name = "Steven"
-  # instructors = ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
   no_offense_steven = instructors.delete(name)
 end
 
